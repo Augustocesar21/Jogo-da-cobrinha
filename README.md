@@ -1,6 +1,5 @@
-# Jogo-da-cobrinha
-
-Um simples jogo da cobrinha feito em Python utilizando a biblioteca PyGame.
+# Pygame-Snake
+Simples jogo da cobrinha feito em Python utilizando a biblioteca PyGame.
 
 Para rodar o projeto:
 <ul>
